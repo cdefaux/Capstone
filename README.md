@@ -7,4 +7,6 @@ This is my final project for the Flatiron DS immersive. I decided to tackle musi
 
 During my exploration of the field I found many papers outlining different techniques for music generation. One particularly useful document was "Deep Leaning Techniques for Music Generation" (Briot et al., 2019), which outlines the various data structures for music encoding, then delves into various neural network architectures and examples of specific models. 
 
-Additionally,
+There have been myriad attempts at generating music, with varied success (in my opinion). Something pertinent to music is the subjectivity of the material. What does one consider 'good' music? This subjectivity adds complexity when evaluating a seemingly arbitrary sample. Music is very deliberate, therefore, I imagine a computer will struggle to create human-sounding pieces. Music tells a story and conveys emotion meaning that a computer inherently cannot understand those dimensions. It will be interesting to see where computer generated music will go when pre-mapped by humans. 
+
+
