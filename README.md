@@ -31,5 +31,6 @@ Training the model on this corpus requires a vast computational resources. Perfo
 
 ## Results
 
+This neural model successfully generated music, however, of varied subjective quality. Some of the music sounded harmonic and followed chord progressions properly. Other clips sounded far less human and lacked any musicality.
 ## Discussion and Conclusions
 
