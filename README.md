@@ -32,5 +32,6 @@ Training the model on this corpus requires a vast computational resources. Perfo
 ## Results
 
 This neural model successfully generated music, however, of varied subjective quality. Some of the music sounded harmonic and followed chord progressions properly. Other clips sounded far less human and lacked any musicality. Obviously the quality of music is entirely subjective however, many listeners agreed that the clips lacked a certain humanity and was unable to tell a story. This is most likely due to the inability of the RNN to model long-term latencies which are required for phrasing and storytelling.
+
 ## Discussion and Conclusions
 
