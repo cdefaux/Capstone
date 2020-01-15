@@ -36,3 +36,5 @@ This neural model successfully generated music, however, of varied subjective qu
 ## Discussion and Conclusions
 
 This was simply an exploration and experimentation into the possibility of applying a recurrent neural network to music data to further generate new music. In this goal, this project was successful and demonstrated the efficacy of RNNs in music generation. Despite the fact that the music generated lacked a certain subjective humanity, it is clear that the music that was generated was musical and similar to Einaudi's music. The musicality could have been improved by supplying the neural network with more data and would have been improved by training the RNN for longer on a faster GPU. 
+
+An extension of this project will be to train an RNN on a variety of musical genres (classical) and build a web application that generates music with this same genre. Whether that Baroque, Romantic or Minimalist, the RNN will generate study music for students to play and never repeat a song again. 
